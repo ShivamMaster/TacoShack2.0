@@ -2,7 +2,7 @@ import pyautogui
 import time
 import random
 
-time.sleep(4)
+time.sleep(3)
  
 command1 = 0      #control when actual tip, work, and overtime command will run
 command2 = 0      #Controls the loop that runs controls when the tip, work, and overtime command will run
